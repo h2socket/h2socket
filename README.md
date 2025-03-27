@@ -4,7 +4,7 @@
 > Specializing in advanced **DDoS protection & traffic analysis**
 
 ---
-
+```
 ## 🛠️ Development Stack
 
 - **Platforms:** CLI tools & Web apps
@@ -39,7 +39,7 @@
 - 💾 Efficient low-level tooling (Assembly / C)  
 - 🧬 Custom protocol analyzers  
 - 🕸️ Web/API layer protection  
-
+```
 ---
 
 <details>
